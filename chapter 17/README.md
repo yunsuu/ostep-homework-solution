@@ -2,7 +2,7 @@
 
 This post is about the practical exercises of 'Operating Systems: Principles and Practice.' Please read the linked article and check out the posting
 
-[](https://github.com/remzi-arpacidusseau/ostep-homework/tree/master/vm-freespace)
+https://github.com/remzi-arpacidusseau/ostep-homework/tree/master/vm-freespace
 
 # Q1
 
